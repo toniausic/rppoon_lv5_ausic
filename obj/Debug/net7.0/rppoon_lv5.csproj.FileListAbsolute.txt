@@ -1,0 +1,15 @@
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\bin\Debug\net7.0\rppoon_lv5.exe
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\bin\Debug\net7.0\rppoon_lv5.deps.json
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\bin\Debug\net7.0\rppoon_lv5.runtimeconfig.json
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\bin\Debug\net7.0\rppoon_lv5.dll
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\bin\Debug\net7.0\rppoon_lv5.pdb
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.csproj.AssemblyReference.cache
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.AssemblyInfoInputs.cache
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.AssemblyInfo.cs
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.csproj.CoreCompileInputs.cache
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.dll
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\refint\rppoon_lv5.dll
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.pdb
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\rppoon_lv5.genruntimeconfig.cache
+C:\Users\Toni\OneDrive\Desktop\rppoon_lv5\rppoon_lv5\obj\Debug\net7.0\ref\rppoon_lv5.dll
